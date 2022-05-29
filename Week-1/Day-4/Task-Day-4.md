@@ -17,27 +17,25 @@ Melakukan versioning menggunakan git pada semua aplikasi (NodeJS, Python dan Go)
 
 ### => [2] 
 
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-4/assets/1.0.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-4/assets/1.1.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-4/assets/1.2.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-4/assets/1.3.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-4/assets/1.4.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-4/assets/1.5.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-4/assets/1.6.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-4/assets/1.7.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-4/assets/1.8.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-4/assets/1.9.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-4/assets/2.0.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-4/assets/2.1.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-4/assets/2.2.png
+[](/assets/1.0.png)
+[](/assets/1.1.png)
+[](/assets/1.2.png)
+[](/assets/1.3.png)
+[](/assets/1.3.png)
+[](/assets/1.5.png)
+[](/assets/1.6.png)
+[](/assets/1.7.png)
+[](/assets/1.8.png)
+[](/assets/1.9.png)
+[](/assets/2.0.png)
+[](/assets/2.1.png)
+[](/assets/2.2.png)
 
-img [1.1]
 
 ### => [3]
 
-img [1.2] [1.4]
 
 
 ### => [4]
 
-img [1.3]
+

@@ -142,16 +142,16 @@ Di samping itu, Anda juga bisa mengetahui IP address Anda dengan menambahkan -i 
 
 ### =>[3] merubah ip server 
 
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-2/assets/1.0.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-2/assets/1.1.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-2/assets/1.3.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-2/assets/1.4.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-2/assets/1.5.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-2/assets/1.6.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-2/assets/1.7.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-2/assets/2.0.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-2/assets/2.1.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-2/assets/2.2.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-2/assets/2.3.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-2/assets/2.4.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-2/assets/2.5.png
+[](/assets/1.0.png)
+[](/assets/1.1.png)
+[](/assets/1.3.png)
+[](/assets/1.4.png)
+[](/assets/1.5.png)
+[](/assets/1.6.png)
+[](/assets/1.7.png)
+[](/assets/2.0.png)
+[](/assets/2.1.png)
+[](/assets/2.2.png)
+[](/assets/2.3.png)
+[](/assets/2.4.png)
+[](/assets/2.5.png)

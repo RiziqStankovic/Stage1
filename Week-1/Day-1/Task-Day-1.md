@@ -39,45 +39,45 @@ https://www.virtualbox.org/
 
 - (2) setelah Download lgsung install dan konfigurasi
 
-!img[1.1][1.2][1.3][1.4][1.5][1.6][1.7][1.8][1.9][2.0]
-!img(/assets/1.1.png)
-!img(/assets/1.2.png)
-!img(/assets/1.3.png)
-!img(/assets/1.4.png)
-!img(/assets/1.5.png)
-!img(/assets/1.6.png)
-!img(/assets/1.8.png)
-!img(/assets/1.9.png)
-!img(/assets/2.0.png)
+!Img[1](/assets/1.1.png)
+ 
+[1.2][1.3][1.4][1.5][1.6][1.7][1.8][1.9][2.0]
+
+
+!Img[2](/assets/1.2.png)
+!Img[3](/assets/1.3.png)
+!img[4](/assets/1.4.png)
+!img[5](/assets/1.5.png)
+!img[6](/assets/1.6.png)
+!img[7](/assets/1.8.png)
+!img[8](/assets/1.9.png)
+!img[9](/assets/2.0.png)
 
 
 ### =>[4] konfigurasi IP Static
 
-img [2.1][2.2][2.3][2.4]
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-1/assets/2.1.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-1/assets/2.2.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-1/assets/2.3.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-1/assets/2.4.png
+[10](assets/2.1.png)
+[11](/assets/2.2.png)
+[12](/assets/2.3.png)
+[13](/assets/2.4.png)
 
 ### =>[5] Konfigurasi partisi memori
 
-img [3.91] [3.92] [3.93] [3.94]
-
-(/assets/2.5.png)
-(/assets/2.6.png)
-(/assets/3.0.png)
-(/assets/3.1.png)
-(/assets/3.2.png)
-(/assets/3.4.png)
-(/assets/3.5.png)
-(/assets/3.6.png)
-(/assets/3.7.png)
-(/assets/3.8.png)
-(/assets/3.9.png)
-(/assets/3.91.png)
-(/assets/3.92.png)
-(/assets/3.93.png)
-(/assets/3.94.png)
+[14](/assets/2.5.png)
+[15](/assets/2.6.png)
+[16](/assets/3.0.png)
+[17](/assets/3.1.png)
+[18](/assets/3.2.png)
+[19](/assets/3.4.png)
+[20](/assets/3.5.png)
+[21](/assets/3.6.png)
+[22](/assets/3.7.png)
+[23](/assets/3.8.png)
+[24](/assets/3.9.png)
+[25](/assets/3.91.png)
+[26](/assets/3.92.png)
+[27](/assets/3.93.png)
+[28](/assets/3.94.png)
 
 ### =>[6] Install Docker
 
@@ -85,6 +85,5 @@ img [3.91] [3.92] [3.93] [3.94]
 
 ### =>[7] Koneksi Lokal Server 
 
-img [4.0] img [4.1] 
-(/assets/4.0.png)
-(/assets/4.1.png)
+[29](/assets/4.0.png)
+[30](/assets/4.1.png)
