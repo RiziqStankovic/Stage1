@@ -40,15 +40,15 @@ https://www.virtualbox.org/
 - (2) setelah Download lgsung install dan konfigurasi
 
 !img[1.1][1.2][1.3][1.4][1.5][1.6][1.7][1.8][1.9][2.0]
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-1/assets/1.1.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-1/assets/1.2.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-1/assets/1.3.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-1/assets/1.4.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-1/assets/1.5.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-1/assets/1.6.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-1/assets/1.8.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-1/assets/1.9.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-1/assets/2.0.png
+!img(/assets/1.1.png)
+!img(/assets/1.2.png)
+!img(/assets/1.3.png)
+!img(/assets/1.4.png)
+!img(/assets/1.5.png)
+!img(/assets/1.6.png)
+!img(/assets/1.8.png)
+!img(/assets/1.9.png)
+!img(/assets/2.0.png)
 
 
 ### =>[4] konfigurasi IP Static
@@ -63,21 +63,21 @@ img [2.1][2.2][2.3][2.4]
 
 img [3.91] [3.92] [3.93] [3.94]
 
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-1/assets/2.5.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-1/assets/2.6.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-1/assets/3.0.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-1/assets/3.1.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-1/assets/3.2.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-1/assets/3.4.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-1/assets/3.5.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-1/assets/3.6.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-1/assets/3.7.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-1/assets/3.8.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-1/assets/3.9.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-1/assets/3.91.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-1/assets/3.92.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-1/assets/3.93.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-1/assets/3.94.png
+(/assets/2.5.png)
+(/assets/2.6.png)
+(/assets/3.0.png)
+(/assets/3.1.png)
+(/assets/3.2.png)
+(/assets/3.4.png)
+(/assets/3.5.png)
+(/assets/3.6.png)
+(/assets/3.7.png)
+(/assets/3.8.png)
+(/assets/3.9.png)
+(/assets/3.91.png)
+(/assets/3.92.png)
+(/assets/3.93.png)
+(/assets/3.94.png)
 
 ### =>[6] Install Docker
 
@@ -86,5 +86,5 @@ img [3.91] [3.92] [3.93] [3.94]
 ### =>[7] Koneksi Lokal Server 
 
 img [4.0] img [4.1] 
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-1/assets/4.0.png
-/media/mint/New Volume/DevOps Dumbways/Week-1/Day-1/assets/4.1.png
+(/assets/4.0.png)
+(/assets/4.1.png)
