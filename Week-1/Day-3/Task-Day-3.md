@@ -21,3 +21,13 @@ Instal semua kebutuhan aplikasi yang dibangun dengan NodeJS, Python dan Go hingg
 
 img [1.1] [1.2] [1.3] [1.4] 
 
+/media/mint/New Volume/DevOps Dumbways/Week-1/Day-3/assets/1.1.png
+/media/mint/New Volume/DevOps Dumbways/Week-1/Day-3/assets/1.2.png
+/media/mint/New Volume/DevOps Dumbways/Week-1/Day-3/assets/2.0.png
+/media/mint/New Volume/DevOps Dumbways/Week-1/Day-3/assets/2.1.png
+/media/mint/New Volume/DevOps Dumbways/Week-1/Day-3/assets/2.2.png
+/media/mint/New Volume/DevOps Dumbways/Week-1/Day-3/assets/2.3.png
+/media/mint/New Volume/DevOps Dumbways/Week-1/Day-3/assets/2.4.png
+/media/mint/New Volume/DevOps Dumbways/Week-1/Day-3/assets/2.5.png
+/media/mint/New Volume/DevOps Dumbways/Week-1/Day-3/assets/2.6.png
+/media/mint/New Volume/DevOps Dumbways/Week-1/Day-3/assets/2.7.png
