@@ -39,15 +39,15 @@ https://www.virtualbox.org/
 
 - (2) setelah Download lgsung install dan konfigurasi
 
-![Img 1](/assets/1.1.png)
+![Img 1](./assets/1.1.JPG)
  
 
 
 
-![Img 1](/assets/1.2.png)
-![Img 1](/assets/1.3.png)
-![Img 1](/assets/1.4.png)
-![Img 1](/assets/1.5.png)
+![Img 1](./assets/1.2.png)
+![Img 1](Day-1/assets/1.3.png)
+![Img 1](Week-1/Day-1/assets/1.4.png)
+![Img 1](../assets/1.5.png)
 ![Img 1](/assets/1.6.png)
 ![Img 1](/assets/1.8.png)
 ![Img 1](/assets/1.9.png)
