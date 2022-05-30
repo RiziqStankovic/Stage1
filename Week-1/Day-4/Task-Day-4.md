@@ -1,4 +1,4 @@
-# Task-Day-4
+Img 1# Task-Day-4
 Konfigurasi jaringan, hingga tunneling
 
 ## Project Management
@@ -17,19 +17,19 @@ Melakukan versioning menggunakan git pada semua aplikasi (NodeJS, Python dan Go)
 
 ### => [2] 
 
-[](/assets/1.0.png)
-[](/assets/1.1.png)
-[](/assets/1.2.png)
-[](/assets/1.3.png)
-[](/assets/1.3.png)
-[](/assets/1.5.png)
-[](/assets/1.6.png)
-[](/assets/1.7.png)
-[](/assets/1.8.png)
-[](/assets/1.9.png)
-[](/assets/2.0.png)
-[](/assets/2.1.png)
-[](/assets/2.2.png)
+[Img 1](/assets/1.0.png)
+[Img 1](/assets/1.1.png)
+[Img 1](/assets/1.2.png)
+[Img 1](/assets/1.3.png)
+[Img 1](/assets/1.3.png)
+[Img 1](/assets/1.5.png)
+[Img 1](/assets/1.6.png)
+[Img 1](/assets/1.7.png)
+[Img 1](/assets/1.8.png)
+[Img 1](/assets/1.9.png)
+[Img 1](/assets/2.0.png)
+[Img 1](/assets/2.1.png)
+[Img 1](/assets/2.2.png)
 
 
 ### => [3]
