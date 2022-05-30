@@ -141,15 +141,31 @@ Di samping itu, Anda juga bisa mengetahui IP address Anda dengan menambahkan -i 
 (sumber: https://www.goldenfast.net/blog/perintah-dasar-linux/ )
 
 ### =>[3] merubah ip server 
-
+seperti biasa ikuti step by step yah
+pertama : cek ip terlebih dlu
 ![Img 1](./assets/1.0.png)
 ![Img 1](./assets/1.1.png)
+masukan printah sperti diatas kemudian set ip nya
 ![Img 1](./assets/1.3.png)
-![Img 1](./assets/1.4.png)
+cek dengan perintah dibawah ini
 ![Img 1](./assets/1.5.png)
-![Img 1](./assets/1.6.png)
+
+cek ping google.com konek atau enggak.
+![Img 1](./assets/1.4.png)
+kalau belom konek bisa di ganti dngn perintah dibawah ini kmudian sesuiakn ip sperti diatas
 ![Img 1](./assets/1.7.png)
+
+gambar urutan nya akan jadi sperti dibawah ini
+![Img 1](./assets/1.6.png)
+
+### =>[4]  install Apache2
+instal apt nya dlu
 ![Img 1](./assets/2.0.png)
+kemudian liat status configurasinya
 ![Img 1](./assets/2.1.png)
+di lanjutkan lt --port 80 untuk memuncul url milik kalian 
 ![Img 1](./assets/2.3.png)
+cekidot langsung copy paste ajah
 ![Img 1](./assets/2.5.png)
+done paham kan, paham lah masa enggak
+NB : step by step yh 
