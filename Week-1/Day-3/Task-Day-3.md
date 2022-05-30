@@ -20,13 +20,13 @@ Instal semua kebutuhan aplikasi yang dibangun dengan NodeJS, Python dan Go hingg
 ### => [2]  
 
 
-[Img 1](/assets/1.1.png)
-[Img 1](/assets/1.2.png)
-[Img 1](/assets/2.0.png)
-[Img 1](/assets/2.1.png)
-[Img 1](/assets/2.2.png)
-[Img 1](/assets/2.3.png)
-[Img 1](/assets/2.4.png)
-[Img 1](/assets/2.5.png)
-[Img 1](/assets/2.6.png)
-[Img 1](/assets/2.7.png)
+[Img 1](./assets/1.1.png)
+[Img 1](./assets/1.2.png)
+[Img 1](./assets/2.0.png)
+[Img 1](./assets/2.1.png)
+[Img 1](./assets/2.2.png)
+[Img 1](./assets/2.3.png)
+[Img 1](./assets/2.4.png)
+[Img 1](./assets/2.5.png)
+[Img 1](./assets/2.6.png)
+[Img 1](./assets/2.7.png)
