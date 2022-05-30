@@ -56,28 +56,38 @@ https://www.virtualbox.org/
 
 ### =>[4] konfigurasi IP Static
 
-[Img 1](./assets/2.1.png)
-[Img 1](./assets/2.2.png)
-[Img 1](./assets/2.3.png)
-[Img 1](./assets/2.4.png)
+![Img 1](./assets/2.1.png)
+
+![Img 1](./assets/2.2.png)
+
+![Img 1](./assets/2.3.png)
+
+![Img 1](./assets/2.4.png)
 
 ### =>[5] Konfigurasi partisi memori
 
-[Img 1](./assets/2.5.png)
-[Img 1](./assets/2.6.png)
-[Img 1](./assets/3.0.png)
-[Img 1](./assets/3.1.png)
-[Img 1](./assets/3.2.png)
-[Img 1](./assets/3.4.png)
-[Img 1](./assets/3.5.png)
-[Img 1](./assets/3.6.png)
-[Img 1](./assets/3.7.png)
-[Img 1](./assets/3.8.png)
-[Img 1](./assets/3.9.png)
-[Img 1](./assets/3.91.png)
-[Img 1](./assets/3.92.png)
-[Img 1](./assets/3.93.png)
-[Img 1](./assets/3.94.png)
+![Img 1](./assets/2.5.png)
+![Img 1](./assets/2.6.png)
+
+![Img 1](./assets/3.0.png)
+![Img 1](./assets/3.1.png)
+
+
+![Img 1](./assets/3.2.png)
+![Img 1](./assets/3.4.png)
+
+![Img 1](./assets/3.5.png)
+![Img 1](./assets/3.6.png)
+![Img 1](./assets/3.7.png)
+
+![Img 1](./assets/3.8.png)
+![Img 1](./assets/3.9.png)
+
+![Img 1](./assets/3.91.png)
+
+![Img 1](./assets/3.93.png)
+
+![Img 1](./assets/3.94.png)
 
 ### =>[6] Install Docker
 
@@ -85,5 +95,6 @@ https://www.virtualbox.org/
 
 ### =>[7] Koneksi Lokal Server 
 
-[Img 29](./assets/4.0.png)
-[Img 30](./assets/4.1.png)
+![Img 29](./assets/4.0.png)
+
+![Img 30](./assets/4.1.png)
