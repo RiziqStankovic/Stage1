@@ -2,6 +2,7 @@
 konfigurasi dan tes instalasi Ubuntu server menggunakan Virtual box
 
 ## Preparing
+##
 
 Sebelum konfigurasi, perlu disiapkan beberapa kebutuhan antara lain:
 - File ISO Ubuntu Server 20.04.4
