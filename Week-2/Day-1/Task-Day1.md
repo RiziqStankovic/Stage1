@@ -92,7 +92,7 @@ nah kan buknya keliatan sh cuman ada riwayat nya klo kliatan mah kek nya kurang 
 
 # oke klo bgitu cek noh link nya, awas jan salam ngklik ntar link kemana-mana repot lgiii susah ntar ingat !!! BE BY STEP yh OKE
 
-[](./assets/1.9b.png) 
+[](./assets/1.9c.png) 
 
 # wahhh akhirnya kelar juga 
 dah kan, tau lah perubahnya liat tuh di jendela halamanya yg lama ama yg baru ini pasti kliatan lah klo enggak kliatan kek nya ada yg salah deh di pngliaatnyaa, klo kurang jelas monggo  cek di hp tulis sndiri link nya biar matanya nambah jelas. dah ah oke kesimpulnya gitu ajh sh simpel kok tiinggal edit push github deploy edit lgi sdikit trus monitor udh kelar .
