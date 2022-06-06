@@ -81,21 +81,21 @@ ctrl + W
 
 # nih dibawah pasti dah ada perubahan nih lnjut ke github kmudian keee mana yaa. ya ke cloudflare nya atuh kan deploy ke sana okeh
 
-[](./assets/1.9a.png)
+![](./assets/1.9a.png)
 
 # trus cek cloudflare ntar cemburu deh klo enggak di cek 
 
-[](./assets/1.9b.png)
+![](./assets/1.9b.png)
 
 # nohh keliatan kan perubahnya, ada enggak cba cek dengn saksama 
-nah kan buknya keliatan sh cuman ada riwayat nya klo kliatan mah kek nya kurang cpet soalnya lgsung otomatis sh, apalgi lu nya lama bet inet nya ya udah ZONK hasilnya, nggak zonk amat sh mknya di perlihatkan riwayatnya noh ada kan menit nya juga disitu
+# nah kan buknya keliatan sh cuman ada riwayat nya klo kliatan mah kek nya kurang cpet soalnya lgsung otomatis sh, apalgi lu nya lama bet inet nya ya udah ZONK hasilnya, nggak zonk amat sh mknya di perlihatkan riwayatnya noh ada kan menit nya juga disitu
 
 # oke klo bgitu cek noh link nya, awas jan salam ngklik ntar link kemana-mana repot lgiii susah ntar ingat !!! BE BY STEP yh OKE
 
-[](./assets/1.9c.png) 
+![](./assets/1.9c.png) 
 
 # wahhh akhirnya kelar juga 
-dah kan, tau lah perubahnya liat tuh di jendela halamanya yg lama ama yg baru ini pasti kliatan lah klo enggak kliatan kek nya ada yg salah deh di pngliaatnyaa, klo kurang jelas monggo  cek di hp tulis sndiri link nya biar matanya nambah jelas. dah ah oke kesimpulnya gitu ajh sh simpel kok tiinggal edit push github deploy edit lgi sdikit trus monitor udh kelar .
+# dah kan, tau lah perubahnya liat tuh di jendela halamanya yg lama ama yg baru ini pasti kliatan lah klo enggak kliatan kek nya ada yg salah deh di pngliaatnyaa, klo kurang jelas monggo  cek di hp tulis sndiri link nya biar matanya nambah jelas. dah ah oke kesimpulnya gitu ajh sh simpel kok tiinggal edit push github deploy edit lgi sdikit trus monitor udh kelar .
 
 # oke Terimakasih smuanyaa dah meluangkan waktunya utk membaca arc ini andddddd Sankyuuuu  
 
